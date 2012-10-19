@@ -67,11 +67,11 @@ Feedback, suggestions, code reviews, pull requests, are all welcome.
 License
 =======
 
-[Apache](http://www.apache.org/licenses/LICENSE-2.0)
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 
 
 Dependencies
 ============
 
-Includes and [Json.NET](http://james.newtonking.com/projects/json-net.aspx) ( [MIT](http://json.codeplex.com/license) license ) [Nlog](http://nlog-project.org/) ( [BSD](http://www.opensource.org/licenses/bsd-license.php) license )
+Includes [Json.NET](http://james.newtonking.com/projects/json-net.aspx) ([MIT](http://json.codeplex.com/license) license) and [Nlog](http://nlog-project.org/) ([BSD](http://www.opensource.org/licenses/bsd-license.php) license)
