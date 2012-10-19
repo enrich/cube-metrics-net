@@ -1,0 +1,10 @@
+bin/
+obj/
+log/
+_Resharper*
+*.suo
+*.swp
+*.bak
+*.log
+*.DotSettings.user
+*.vbproj.user
